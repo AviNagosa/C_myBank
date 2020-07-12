@@ -1,2 +1,2 @@
-# hw2
+# myBank
 second assignment
