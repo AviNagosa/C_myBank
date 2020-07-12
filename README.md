@@ -1,2 +1,3 @@
 # myBank
-second assignment
+
+Second assignment in a C programming course
